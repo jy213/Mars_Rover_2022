@@ -1,0 +1,21 @@
+.coordinates{
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 1%;
+}
+
+.content{
+    font-size: 7pt;
+    color: lightgray;
+    text-align: left;
+    margin-left: 5px;
+}
+
+.title{
+    font-size: 11pt;
+    color: lightblue;
+    text-align: left;
+    margin-left: 5px;
+}
