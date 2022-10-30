@@ -1,8 +1,7 @@
 # Mars_Rover_2022
 Year 2 Mars Rover Project 
-The rover is composed of seven subsystems: energy, drive, vision, control, command, radar, 
-and integration.
 
+The rover is composed of seven subsystems: energy, drive, vision, control, command, radar, and integration.
 
 1) Energy Subsystem
 The energy subsystem will provide the rover with charged power bank batteries using solar 
