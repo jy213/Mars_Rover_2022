@@ -45,7 +45,7 @@ to develop a web app using the NodeJS and ReactJS frameworks.
 The students will receive a small radar module that they can use to locate underground alien 
 infrastructure. Our intelligence sources reveal that aliens use subsurface fans to pump air 
 underground. Your radar can detect moving objects, and you should use it to locate the blades 
-of a rotating fan. The radar system description is provided. Students need to develop the postprocessing (amplification and filtering) for the radar sensor.
+of a rotating fan. The radar system description is provided. Students need to develop the post-processing (amplification and filtering) for the radar sensor.
 
 7) Integration Subsystem
 The integration subsystem allows the test of the rover's capabilities to move, avoid obstacles, 
